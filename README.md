@@ -1,3 +1,3 @@
 #openclassroom project 3
 
-https://elu-code.github.io/ohmyfood/
+https://daniel-getahun.github.io/ohmyfood/
